@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.4.2",
-  "release_date": "2026-10-18",
+  "latest_version": "2.4.3",
+  "release_date": "2026-11-01",
   "release_notes": "- Sửa lỗi giao diện.
   \n- Đồng bộ mẫu in mới: Kết nối mẫu in chuẩn từ mục hệ thống cho toàn bộ danh mục Tổng quan, Xuất Hàng, Nhập Hàng, Sửa Chữa.
 \n- Báo cáo doanh thu nhân viên: Thêm bảng báo cáo chi tiết theo tháng cho từng nhân viên và bộ lọc nhân viên thông minh.
