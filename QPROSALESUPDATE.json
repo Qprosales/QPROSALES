@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.4.3",
+  "latest_version": "2.4.4",
   "release_date": "2026-11-01",
   "release_notes": "- Sửa lỗi giao diện."- Sửa lỗi giao diện.\n- Đồng bộ mẫu in mới: Kết nối mẫu in chuẩn từ mục hệ thống cho toàn bộ danh mục Tổng quan, Xuất Hàng, Nhập Hàng, Sửa Chữa.\n- Báo cáo doanh thu nhân viên: Thêm bảng báo cáo chi tiết theo tháng cho từng nhân viên và bộ lọc nhân viên thông minh.\n- Bảo mật giá vốn: Thêm biểu tượng mắt ẩn/hiện giá vốn trong danh mục Tồn Kho (mặc định ẩn để bảo mật kinh doanh).\n- Phân quyền thao tác: Tài khoản nhân viên không hiển thị nút Sửa/Xóa tại Xuất Hàng, Nhập Hàng, Tồn Kho, Khách Hàng.\n- Hiệu năng & Ổn định: Tối ưu bộ nhớ đệm, tự động đồng bộ hóa và lưu trữ cục bộ bảo đảm dữ liệu an toàn.",
   "download_url": "https://drive.google.com/file/d/1x6_ABi4XUya439xhwjHyg05IaNxWHfdt/view?usp=sharing",
